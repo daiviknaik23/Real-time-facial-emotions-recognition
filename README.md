@@ -41,3 +41,28 @@ The trained model is then used in a real-time application to detect emotions via
 - NumPy, Pandas (for data handling)
 
 - Matplotlib (for visualization)
+
+# Example Output
+
+https://github.com/user-attachments/assets/d91ae099-a80f-46aa-b29d-4f0e4796c3ec
+
+# License
+
+This project is open-source and available under the MIT License.
+
+# Contributing 🤝
+
+Pull requests are welcome! If you'd like to improve this project, feel free to fork the repo and submit a PR.
+
+# Contact 📩
+
+If you have any questions, feel free to reach out.
+
+- Email: daiviknaik23@gmail.com
+
+- Linkedin: www.linkedin.com/in/daiviknaik
+
+
+
+
+
